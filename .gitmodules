@@ -1,0 +1,15 @@
+[submodule "modules/pandas_sub"]
+	path = modules/pandas_sub
+	url = git@github.com:Param-veered/pandas_sub.git
+[submodule "modules/python_sub"]
+	path = modules/python_sub
+	url = git@github.com:Param-veered/python_sub.git
+[submodule "modules/sql_sub"]
+	path = modules/sql_sub
+	url = git@github.com:Param-veered/sql_sub.git
+[submodule "modules/spicy_fishy_template_test"]
+	path = modules/spicy_fishy_template_test
+	url = git@github.com:neuefische/spicy_fishy_template_test.git
+[submodule "modules/s_f_template"]
+	path = modules/s_f_template
+	url = git@github.com:neuefische/s_f_template.git
