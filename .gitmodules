@@ -22,3 +22,6 @@
 [submodule "module/python_sub"]
 	path = module/python_sub
 	url = git@github.com:Param-veered/python_sub.git
+[submodule "module/cgn_s_f_template"]
+	path = module/cgn_s_f_template
+	url = git@github.com:neuefische/cgn_s_f_template.git
