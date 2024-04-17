@@ -13,3 +13,12 @@
 [submodule "modules/s_f_template"]
 	path = modules/s_f_template
 	url = git@github.com:neuefische/s_f_template.git
+[submodule "module/s_f_template"]
+	path = module/s_f_template
+	url = git@github.com:neuefische/s_f_template.git
+[submodule "module/spicy_fishy_template_test"]
+	path = module/spicy_fishy_template_test
+	url = git@github.com:neuefische/spicy_fishy_template_test.git
+[submodule "module/python_sub"]
+	path = module/python_sub
+	url = git@github.com:Param-veered/python_sub.git
